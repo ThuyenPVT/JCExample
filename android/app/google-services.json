@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "577903636224",
+    "firebase_url": "https://jobchatbackend.firebaseio.com",
+    "project_id": "jobchatbackend",
+    "storage_bucket": "jobchatbackend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577903636224:android:d11d1e34b31bea1f4dcde5",
+        "android_client_info": {
+          "package_name": "com.example.navigator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577903636224-89992gmiegp9td83ob4v96gb07a9a0j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfwSQoDnMUe0xh4isHOUlC_7JsCE0hMXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577903636224-89992gmiegp9td83ob4v96gb07a9a0j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
